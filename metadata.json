@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Smart Saudi Trip Planner",
+  "description": "Bilingual (Arabic + English) smart Saudi tourism day planner AI with prayer time avoidance, heat safety, and accessibility filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
