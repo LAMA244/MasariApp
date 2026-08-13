@@ -63,7 +63,7 @@ Traveling across Saudi Arabia presents unique cultural and environmental factors
 ###  Future Improvements
 *  **Firebase Authentication & Saved Itineraries**: User accounts to bookmark, export, and share past trips.
 *  **Real-time Live Traffic & Crowd Integration**: Integration with live foot-traffic APIs to suggest real-time rerouting.
-*  **Expanded Saudi Destinations**: Inclusion of emerging Vision 2030 destinations (e.g., NEOM, Red Sea Project, Diriyah season events).
+*  **Expanded Saudi Destinations**: Inclusion of emerging Vision 2030 destinations (e.g., NEOM, Red Sea Project, Diriyah season events.
 
 ---
 
